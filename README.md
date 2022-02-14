@@ -1,4 +1,9 @@
-# cpnt262-a3-press-button
+#  Bryan Velasco // CPNT-262 // Push of a Button
+
+**Attributions**
+- [JavaScript Tutorial For Beginners #40 - The onClick Event](https://www.youtube.com/watch?v=XQEfWd1lh4Q) by The Net Ninja
+
+- [How to Change Button Color OnClick in Javascript](https://www.youtube.com/watch?v=Zo-DUNoQ7fU) by KodeBase
 
 ## February 13, 2022
 
@@ -16,5 +21,9 @@ Found a tutorial on Youtube and I'll use it for some help!
 [JavaScript Tutorial For Beginners #40 - The onClick Event](https://www.youtube.com/watch?v=XQEfWd1lh4Q) by The Net Ninja
 
 So I went thru so many tutorials. The one above is good but it does not use `document.querySelector` or `Element.addEventListener`
+
+Ended up using this one for help with the achievement [How to Change Button Color OnClick in Javascript](https://www.youtube.com/watch?v=Zo-DUNoQ7fU) by KodeBase
+
+**Extension**
 
 VScode - CodeRunner
